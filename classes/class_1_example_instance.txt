@@ -1,0 +1,13 @@
+Instance "Joe's Class"
+
+Attributes
+subjects = ['Math', 'Science', 'English', 'History', 'P.E.']
+classLength = 45
+isInSession = true
+teacherName = "Mrs. Johnson"
+
+Methods
+addElective: subjects = ['Math','Science', 'English', 'History', 'P.E.', 'Art']
+earlyRelease: classLength = 40
+notInSession: isInSession = false
+subTeacher: teacherName = "Mr. White"
