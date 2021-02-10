@@ -1,0 +1,13 @@
+Instance Mom's Student
+
+Attributes
+isTall = true
+name = John
+height = 72
+interests= ['music', 'sports', 'camping']
+
+Methods
+notTall: isTall = false
+middleName: name = Jacob
+grow: height = 74
+addInterests: interests = ['music', 'sports', 'camping', 'hiking']
