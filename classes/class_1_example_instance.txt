@@ -1,13 +1,15 @@
-Instance "Joe's Class"
+Instance: Joe's Class
 
 Attributes
-subjects = ['Math', 'Science', 'English', 'History', 'P.E.']
+assignments = ['writing', 'skills', 'reading']
 classLength = 45
 isInSession = true
 teacherName = "Mrs. Johnson"
+numberOfStudents = 25
 
 Methods
-addElective: subjects = ['Math','Science', 'English', 'History', 'P.E.', 'Art']
+addAssignment: assignments = ['writing','skills', 'reading', 'extra credit']
 earlyRelease: classLength = 40
 notInSession: isInSession = false
 subTeacher: teacherName = "Mr. White"
+dropClass: numberOfStudents = 24

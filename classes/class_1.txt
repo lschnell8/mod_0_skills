@@ -1,13 +1,15 @@
-Class class
+Class: Class
 
 Attributes
-subjects (array)
+assignments (array)
 classLength (integer)
 isInSession (boolean)
 teacherName (string)
+numberOfStudents (integer)
 
 Methods
-addElective (adds a subject to the subjects array)
+addAssignment (adds an assignment to assignments array)
 earlyRelease (decreases classLength)
 notInSession (changes isInSession to false)
 subTeacher (changes teacherName)
+dropClass (decreases numberOfStudents by 1)

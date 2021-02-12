@@ -1,12 +1,12 @@
-class Student
+Class: Student
 
 Attributes
-isTall (boolean)
+hasHair (boolean)
 name (string)
 height (integer)
 interests (array)
 
-notTall (changes isTall to false)
-middleName (changes name attribute)
+shaveHair (changes hasHair to false)
+changeName (changes name attribute)
 grow (increases height attribute)
 addInterests (adds one interest to interests array)
