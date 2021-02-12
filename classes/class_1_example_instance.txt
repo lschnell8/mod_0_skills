@@ -9,7 +9,7 @@ numberOfStudents = 25
 
 Methods
 addAssignment: assignments = ['writing','skills', 'reading', 'extra credit']
-earlyRelease: classLength = 40
-notInSession: isInSession = false
+adjustRelease: classLength = 40
+exitSession: isInSession = false
 subTeacher: teacherName = "Mr. White"
 dropClass: numberOfStudents = 24

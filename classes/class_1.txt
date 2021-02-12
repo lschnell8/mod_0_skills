@@ -9,7 +9,7 @@ numberOfStudents (integer)
 
 Methods
 addAssignment (adds an assignment to assignments array)
-earlyRelease (decreases classLength)
-notInSession (changes isInSession to false)
+adjustRelease (decreases classLength)
+exitSession (changes isInSession to false)
 subTeacher (changes teacherName)
 dropClass (decreases numberOfStudents by 1)
